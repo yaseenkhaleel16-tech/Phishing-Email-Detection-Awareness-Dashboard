@@ -38,9 +38,6 @@ Synthetic data only, fictional domains/reserved IPs, no attachments executed, no
 
 ## Future improvements
 Header analysis, SPF/DKIM/DMARC, URL/domain reputation, better NLP, analyst feedback loop, SIEM/ticket integration.
-<img width="1600" height="1200" alt="WhatsApp Image 2026-10-02 at 08 22 27" src="https://github.com/user-attachments/assets/6af657d8-55db-45ee-b9d5-705f7ddba0d5" />
-<img width="1600" height="1200" alt="WhatsApp Image 2026-10-02 at 08 22 28" src="https://github.com/user-attachments/assets/1a30dd4c-6332-44fa-920a-a7422266fed1" />
-<img width="1600" height="1200" alt="WhatsApp Image 2026-10-02 at 08 22 28 (1)" src="https://github.com/user-attachments/assets/f2562d57-a6ad-4497-8318-1bc5ec71139f" />
-<img width="1600" height="1200" alt="WhatsApp Image 2026-10-02 at 08 22 28 (2)" src="https://github.com/user-attachments/assets/ad5f8003-7ec1-4a42-9521-092c253e6520" />
+
 [README.md](https://github.com/user-attachments/files/32941185/README.md)
 
